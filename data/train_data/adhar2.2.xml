@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>adhar2.2.jpeg</filename>
+	<path>/Users/apple/Downloads/doc_verification/data/train_data/adhar2.2.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1043</width>
+		<height>619</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aadhaar_no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>470</ymin>
+			<xmax>729</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>
